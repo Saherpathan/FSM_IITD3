@@ -44,20 +44,13 @@ In this project, we implement two classical unsupervised learning algorithms: K-
 
 ## Files 📁
 
-- `unsupervised-learning.ipynb`: Jupyter Notebook containing the implementation of unsupervised learning algorithms.
+- `FSM_UNSUPERVISED.ipynb`: Jupyter Notebook containing the implementation of unsupervised learning algorithms.
 - `Iris Dataset.csv`: [Iris dataset](Iris%20Dataset.csv).
 
 ## Results 📈
 
 Eigenvalues: [1890.78098156    0.97328663]
 
-### Data Visualization
-
-#### K-Means Clustering Output
-![K-Means Clustering](kmeans_clustering.png)
-
-#### Actual Species
-![Actual Species](actual_species.png)
 
 ## Contributing 🤝
 
